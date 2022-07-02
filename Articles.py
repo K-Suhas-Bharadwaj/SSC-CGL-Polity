@@ -72,3 +72,19 @@ Directive_Principles_Of_State_Policy_Articles = {
     "351": "Promotion of Hindi"
 
 }
+
+Eleven_Fundamental_Duties_Article_51_A = [
+
+    "To abide by the constitution and respects its ideals and institutions, the national flag and the national anthem.Example of constitutional institutions: Supreme Court, Election Comision, UPSC, etc. No one should question supreme court’s judgement. No one should say election commission did wrong counting No one should question UPSC’s results",
+    "To cherish and follow the noble ideals which inspired our national struggle for freedom. Don't do Gandhi vs Subhas Chandra Bose",
+    "To uphold and protect the sovereignity, unity and integrity of India",
+    "To defend the country and render national service when called upon to do so. National Service ==> Agreeing for being witness in a case where you were actually the witness",
+    "To promote harmony and spirit of common brotherhood amongst all the people of India irrespective of religious, linguistic and regional diversities. To renounce practices derogatory to dignity of women",
+    "To value and preserve the rich heritage of our composite culture. Don’t damage something when you go to a heritage place",
+    "To protect and improve the natural environment including forest, lakes, rivers and wild life. To have compassion for living creatures",
+    "To develop the scientific temper, humanism and the spirit of inquiry and reform",
+    "To safegaurd public property and to abjure violence",
+    "To strive towards excellence in all spheres of individual and collective activity, so that the nation always rises to higher levels of endeavour and achievement. Follow lockdown rules and social distancing",
+    "To provide opportunities for education to his child or ward as the case may be between the age of six and fourteen years. This 11th Fundamental Duty was added by the 86th Constitutional Amendment Act, 2002"
+    
+]
