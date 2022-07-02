@@ -43,7 +43,7 @@ Fundamental_Rights_Articles = {
 
 }
 
-Articles_Directive_Principles_Of_State_Policy = {
+Directive_Principles_Of_State_Policy_Articles = {
 
     "36": "Definition of Directive Principles of State Policy",
     "37": "Application of Directive Principles of State Policy",
