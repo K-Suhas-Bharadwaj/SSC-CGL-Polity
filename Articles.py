@@ -19,8 +19,15 @@ Articles = {
     "22": "Protection against arrest and detention in certain cases",
 
     #Right against Exploitation
-    "23": "Prohibition of traffic in human beings and forced labour",
+    "23": "Prohibition of traffic in human beings and forced labour with following provisions: a. Provision of unethical business of children and women b. Slavery System c. Prohibition of unbound labour",
+    "24": "Prohibition of employment of children in factories. There shall not be labour below 14 years of age. In 1996, Supreme Court Ordered that there shall be an establishment of Children Welfare Account",
 
+    #Right to Freedom of Religion
+    "25": "Freedom of conscience and free practice and propagation of religion",
+    "26": "Freedom to manage religious affairs",
+    "27": "Freedom of taxes for payments to promote religious affairs",
+    "28": "Freedom to attend religious worship in certain educational institution a. Educational institutions undertaken by government - Completely Prohibited b. Educational institutions undertaken by government but established for special purposes - Religious education granted. c. Educational institutions approved by government - Free to attend religious education d. Educational institutions which are financially healed by government - Free to attend religious education",
 
+    
 
 }
