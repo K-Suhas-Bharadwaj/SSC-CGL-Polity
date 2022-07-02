@@ -18,6 +18,9 @@ Articles = {
     "21": "Protection of life and personal liberty with following rights: a. Right to privacy b. Right to live c. Right to health d. Right to education till 14 years of age (Important) e. Right for free help of law f. Right against seperate jail g. Right against handcuffs h. Right against violence nature g. Right against the late hanging h. Right to travel foreign i. Right against to become a bonded labour j. Right against hanging publicly k. Right to sleep l. Right against pollution m. Right for electricity n. Right to behave with respect to women",
     "22": "Protection against arrest and detention in certain cases",
 
+    #Right against Exploitation
+    "23": "Prohibition of traffic in human beings and forced labour",
+
 
 
 }
