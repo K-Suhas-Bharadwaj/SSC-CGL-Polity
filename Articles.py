@@ -28,6 +28,13 @@ Articles = {
     "27": "Freedom of taxes for payments to promote religious affairs",
     "28": "Freedom to attend religious worship in certain educational institution a. Educational institutions undertaken by government - Completely Prohibited b. Educational institutions undertaken by government but established for special purposes - Religious education granted. c. Educational institutions approved by government - Free to attend religious education d. Educational institutions which are financially healed by government - Free to attend religious education",
 
+    #Right for Culture and Education
+    "29": "Protection of interests of minorities",
+    "30": "Right for minorities to establish and administer the educational institutions of their own",
+
+    #Right to property ==> Article 31 ==> No more a fundamental right ==> Hade become a legal right in 1978 by the means of 44th Ammendment 
     
+    #Right to Constitutional Remedy
+    "32": ""
 
 }
