@@ -16,7 +16,7 @@ Fundamental_Rights_Articles = {
     "19": "Provides following seven rights: a. Right to Speech b. Right to conduct meetings in non-violent manner c. Right to form Union d. Freedom of Movement e. Freedom for residence and settlement (Exception: i. Jammu and Kashmir ii. Places where military resides) f. Freedom of profession, occupation, trade or business g. Right to use internet",
     "20": "Protection in respect of conviction for offenses (An offender will get only that much of punishment given by court. E.g. If an offender gets 6 months of conviction, police cannot extend his conviction for 2 years due to personal grudge ). Applies to foreigners as well.",
     "21": "Protection of life and personal liberty with following rights: a. Right to privacy b. Right to live c. Right to health d. Right to education till 14 years of age (Important) e. Right for free help of law f. Right against seperate jail g. Right against handcuffs h. Right against violence nature g. Right against the late hanging h. Right to travel foreign i. Right against to become a bonded labour j. Right against hanging publicly k. Right to sleep l. Right against pollution m. Right for electricity n. Right to behave with respect to women. All these rights listed under Article 21 applies to foreigners as well",
-    "21A": "Right to initial education. Applies to foreigners as well."
+    "21A": "Right to initial education. Applies to foreigners as well.",
     "22": "Protection against arrest and detention in certain cases. Applies to foreigners as well.",
 
     #Right against Exploitation
