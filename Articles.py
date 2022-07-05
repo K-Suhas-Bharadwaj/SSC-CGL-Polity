@@ -24,7 +24,7 @@ Fundamental_Rights_Articles = {
     "24": "Prohibition of employment of children in factories. There shall not be labour below 14 years of age. In 1996, Supreme Court Ordered that there shall be an establishment of Children Welfare Account",
 
     #Right to Freedom of Religion
-    "25": "Freedom of conscience and free practice and propagation of religion. Applies to foreigners as well,
+    "25": "Freedom of conscience and free practice and propagation of religion. Applies to foreigners as well",
     "26": "Freedom to manage religious affairs",
     "27": "Freedom of taxes for payments to promote religious affairs. Applies to foreigners as well",
     "28": "Freedom to attend religious worship in certain educational institution a. Educational institutions undertaken by government - Completely Prohibited b. Educational institutions undertaken by government but established for special purposes - Religious education granted. c. Educational institutions approved by government - Free to attend religious education d. Educational institutions which are financially healed by government - Free to attend religious education",
